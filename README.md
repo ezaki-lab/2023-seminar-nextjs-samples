@@ -12,7 +12,7 @@
 
 迷う場合はドキュメントの中にしましょう。
 
-### 2. `git clone https://github.com/ezaki-lab/2023-seminar-nextjs 任意のフォルダ名` を実行
+### 2. `git clone https://github.com/ezaki-lab/2023-seminar-nextjs-samples 任意のフォルダ名` を実行
 
 指定したフォルダ名でプロジェクトフォルダーが生成されます。
 
@@ -35,6 +35,6 @@
 のコードを書き換えて保存し、サイトを確認してみましょう。
 編集した内容に書き換わっていることがわかります。
 
-## サンプルコード
+## テンプレート
 
-[https://github.com/ezaki-lab/2023-seminar-nextjs-samples](https://github.com/ezaki-lab/2023-seminar-nextjs-samples)
+[https://github.com/ezaki-lab/2023-seminar-nextjs](https://github.com/ezaki-lab/2023-seminar-nextjs)
