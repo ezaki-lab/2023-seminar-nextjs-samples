@@ -6,7 +6,7 @@ export default function Profiles() {
 
   const fetchYamaProfiles = async () => {
     const res = await fetch('/api/get-yama-profiles');
-    const json = res.json();
+    const json = await res.json();
 
     setProfiles(json);
     setReady(true);

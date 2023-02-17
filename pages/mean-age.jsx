@@ -6,7 +6,7 @@ export default function MeanAge() {
 
   const fetchMeanAge = async () => {
     const res = await fetch('/api/get-mean-age');
-    const json = res.json();
+    const json = await res.json();
 
     setMeanAge(json.mean_age);
     setReady(true);
